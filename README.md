@@ -1,4 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
+
 <h1 align="center">Hi 👋, I'm Hadi Darwish</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
 
@@ -28,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadi-darwish&show_icons=true&locale=en" alt="hadi-darwish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadi-darwish&" alt="hadi-darwish" /></p>
+
+<h4>Activity Chart for the past year:</h4>
+<p align="left">
+  <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d" width="95%" />
+</p>
